@@ -1,6 +1,6 @@
 # IBM_DataScience_Coursera
-In this I will be adding my work I did in the Data Science course of Coursera by IBM
 <html>
+  <hr>
+<h1> In this repository, I will be adding my work that I did in the Data Science course of Coursera by IBM </h1>
 <hr>
-<hr>
-<p> <h1> This course is very good </h1> </p>
+
